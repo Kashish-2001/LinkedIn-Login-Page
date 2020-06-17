@@ -1,0 +1,86 @@
+body {
+  background: #00688b;
+  text-align: center;
+}
+h1 {
+  font-family: "Exo 2", sans-serif;
+  color: white;
+}
+img {
+  max-width: 150px;
+  max-height: 100px;
+  margin-top: 14px;
+}
+form {
+  background: rgb(245, 245, 240);
+  padding: 1.4%;
+  padding-left: 2%;
+  padding-right: 2%;
+  max-width: 350px;
+  max-height: 700px;
+  margin: auto;
+  text-align: left;
+  font-size: 1em;
+}
+
+input {
+  margin-top: 0px;
+  height: 25px;
+  width: 350px;
+}
+
+p {
+  margin-bottom: opx;
+  padding-bottom: 0%;
+  opacity: 80%;
+  font-family: sans-serif;
+}
+
+.one {
+  opacity: 80%;
+  text-align: center;
+}
+
+span {
+  font-size: small;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.two {
+  opacity: 100%;
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
+}
+
+div {
+  text-align: center;
+}
+
+.button {
+  background-color: #2878bf;
+  border: none;
+  color: white;
+  padding: 12px 75px;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 17px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#sign {
+  font-size: 20px;
+}
+
+.three {
+  text-decoration: none;
+  font-size: unset;
+  opacity: 80;
+  font-weight: bold;
+  color: blue;
+}
